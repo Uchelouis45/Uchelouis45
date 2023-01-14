@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uchelouis
+- 👋 Hi, I’m @ucheigboanugo
 - 👀 I’m interested in Programming with Python and R
 - 🌱 I’m currently learning how to use Python for data analytics
 - 💞️ I’m looking to collaborate on building databases using python
